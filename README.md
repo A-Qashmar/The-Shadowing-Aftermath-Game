@@ -107,4 +107,4 @@ Main Menu → Level 1 → Boss 1 → Level 2 → Boss 2 → Level 3 → Boss 3 �
 - **GitHub:** https://github.com/A-Qashmar
 
 ## License
-This project is part of a university coursework assignment (Game Design & Development Fall 25).
+This project is part of a university coursework assignment (Game Design & Development Fall 2025).
